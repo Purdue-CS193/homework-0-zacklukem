@@ -1,3 +1,8 @@
+# Zachary Mayhew's First CS193 Homework
+
+- It is low stress
+
+
 # CS 193 Homework 0 - GitHub and Your Own Website!
 
 ## What is this assignment
